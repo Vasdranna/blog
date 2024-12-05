@@ -1,1 +1,1 @@
-# blog
+A place for random things that capture my attention.
